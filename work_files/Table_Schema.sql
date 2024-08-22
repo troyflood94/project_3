@@ -1,6 +1,6 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
+--some of the foreign keys and constraints were worked out after this table creation, the ERD represents the final version.
 
 CREATE TABLE "IMDB" (
     "ID" Int   NOT NULL,
